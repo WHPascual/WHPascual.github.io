@@ -1,0 +1,41 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  
+  .navbar{
+    background: #353a40;
+  }
+  
+  .nav-link {
+    color: lightgray;
+  }
+  
+  #comprartickets {
+    color: #96c93e;
+  }
+  
+  .container-fluid {
+    padding: 10px;
+  }
+  
+  .nav-footer {
+    background: #1c4154;
+    font-size: small;
+  }
+  
+  .btn-primary {
+      background-color: #indigo-900;
+  }
+  .blabla{
+    background: #454545;
+    color: white;
+  }
+  
+  h3 {
+    text-align: center;
+  }
+  
+  #anotate {
+    text-align: center;
+  }
